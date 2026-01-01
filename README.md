@@ -93,8 +93,3 @@ Una vez que la aplicación esté ejecutándose, selecciona una criptomoneda y un
 ## ✍️ Autores <a name = "autores"></a>
 
 - **DaCazo15** - Desarrollo inicial - [DaCazo15](https://github.com/DaCazo15)
-
-## 🎉 Agradecimientos <a name = "agradecimientos"></a>
-
-- Inspiración de tutoriales de Vue.js
-- [CryptoCompare API](https://min-api.cryptocompare.com/) - Para datos de criptomonedas
